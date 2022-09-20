@@ -10,6 +10,8 @@
 // @match               http*://msdn.microsoft.com/zh-cn/*
 // @match               http*://docs.microsoft.com/en-us/*
 // @match               http*://docs.microsoft.com/zh-cn/*
+// @match               http*://learn.microsoft.com/en-us/*
+// @match               http*://learn.microsoft.com/zh-cn/*
 // @grant        none
 // ==/UserScript==
 
