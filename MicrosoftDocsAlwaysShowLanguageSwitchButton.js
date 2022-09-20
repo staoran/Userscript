@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         微软文档始终显示语言切换按钮
 // @namespace    https://github.com/staoran/Userscript
-// @version      0.1
+// @version      0.2
 // @description  显示在英语页被隐藏的语言切换按钮
 // @author       Tao<staoran@gmail.com>
 // @license          MIT
